@@ -1,0 +1,6 @@
+# How confident do you feel with the content on Arrays so far?
+I have had a decent amount of experience working with arrays in JavaScript, so I feel confident with the content we've learned so far. Many methods are similar, it's just a matter of finding and memorizing the correct syntax for Ruby. Push, shift, unshift, and pop, however, are named the same and function the same as they do in JavaScript.
+# Is there any additional learning you need or want to do before moving to the next lesson?
+Not with these four methods. I did go down the rabbit hole to see what other Array functions Ruby includes that were similar to JavaScript. I looked at reduce(), each(), find_index(), delete_at(), flatten(), and a few others. Ruby has pretty much the exact same functions and many behave exactly the same. However, there are some slight differences. For instance, in JavaScript the reduce() function (as well as the other higher-order functions map(), forEach(), and filter()) will return the index of each value in the array. It does not appear that the equivalent functions in Ruby do that.
+# What questions do I have about arrays?
+ I really can't think of any questions I have about Ruby arrays at this point. I'm feeling pretty good about them.
